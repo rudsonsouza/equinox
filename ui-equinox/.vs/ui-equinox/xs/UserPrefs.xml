@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{09FF442C-D778-4A38-8D8A-EF86AD622BEB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ui-equinox FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ui-equinox.infra.bus FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ui-equinox" expanded="True">
+            <Node name="ui-equinox.domain" expanded="True">
+              <Node name="Common" expanded="True">
+                <Node name="AssetsReportTypes.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ui-equinox FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ui-equinox.domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ui-equinox.services FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
